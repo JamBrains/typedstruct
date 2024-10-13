@@ -1,4 +1,4 @@
-defmodule TypedStruct.MixProject do
+defmodule Gm.TypedStruct.MixProject do
   use Mix.Project
 
   @version "0.5.3"
